@@ -79,9 +79,12 @@ CPU-Scheduling-Visualizer/
     ├── output.png
     ├── fcfs.png
     ├── sjf.png
-    ├── rr.png
+    ├── round_robin.png
     ├── priority.png
+    |-- TaT_comparison.png
+    |-- WT_comparison.png
     └── comparison.png
+   
 ```
 
 ## Sample Input
