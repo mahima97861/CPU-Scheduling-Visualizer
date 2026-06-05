@@ -81,8 +81,8 @@ CPU-Scheduling-Visualizer/
     ├── sjf.png
     ├── round_robin.png
     ├── priority.png
-    |-- TaT_comparison.png
-    |-- WT_comparison.png
+    ├── TaT_comparison.png
+    ├── WT_comparison.png
     └── comparison.png
    
 ```
