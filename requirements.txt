@@ -1,1 +1,1 @@
-matplotlib>=3.7.00
+matplotlib>=3.7.0
